@@ -5,11 +5,17 @@ A fast, lightweight NLP & anomaly detection system for analyzing local news arti
 🚀 Features
 
 ✔ ISO-8859-1 compatible data loader
+
 ✔ Clean NLP pipeline (lemmatization, stopwords)
+
 ✔ Sentiment scoring (VADER)
+
 ✔ Fast LDA topic modeling
+
 ✔ Isolation Forest anomaly detection
+
 ✔ Interactive Streamlit Dashboard
+
 ✔ AWS-ready deployment
 
 📂 Project Structure
